@@ -9,5 +9,6 @@ module.exports = {
   'thalhalla/tf2': 'tf2.sh parameter1 parameter2',
   'thalhalla/7daystodie': '7daystodie.sh parameter1 parameter2',
   'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
+  'joshuacox/dockerhub-webhook': 'dockerhub-webhook.sh parameter1 parameter2',
   'fail': 'fail.sh'
 }
