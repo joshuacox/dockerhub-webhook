@@ -92,7 +92,7 @@ docker run -d \
   -p 3000:3000 \
   -e SERVER_PORT=3000 \
   -e TOKEN=${token} \
-  -e ROUTE=/api \
+  -e API_ROUTE=/api \
   -v ${PWD}/scripts:/src/scripts \
   -v /var/run/docker.sock:/var/run/docker.sock \
   --name dockerhub-webhook \
