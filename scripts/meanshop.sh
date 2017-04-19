@@ -13,6 +13,6 @@ if [ ! -z ${SLACK_URL+x} ]
   then
     echo "Slack URL detected sending slack"
     curl -X POST --data-urlencode \
-    'payload={"channel": "#github", "username": "webhookbot", "text": "Captain Hook has detected that the meanshop webhook has been triggered.", "icon_emoji": ":whale:"}' \
+    'payload={"channel": "#github", "username": "CaptainHook", "text": "Captain Hook has detected that the meanshop container has hit the open seas.", "icon_emoji": ":whale:"}' \
     $SLACK_URL
 fi
