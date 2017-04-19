@@ -8,13 +8,13 @@
 FROM mhart/alpine-node:7
 
 # Maintainer
-MAINTAINER Jonas Enge
+MAINTAINER Josh Cox
 
 #### Begin setup ####
 
 # Installs docker
 RUN apk add --update --no-cache docker py-pip
-RUN apk add bash bash-doc bash-completion
+RUN apk add bash bash-doc bash-completion curl
 RUN pip install docker-compose
 
 # Extra tools for native dependencies
