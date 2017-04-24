@@ -10,6 +10,6 @@ module.exports = {
   'thalhalla/7daystodie': '7daystodie.sh parameter1 parameter2',
   'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
   'joshuacox/dockerhub-webhook': 'dockerhub-webhook.sh parameter1 parameter2',
-  'bokbot/bokbotapp': 'bokbotapp.sh parameter1 parameter2',
+  'bokbot/bokbotapp': 'common.sh bokbotapp dockerhub',
   'fail': 'fail.sh'
 }
