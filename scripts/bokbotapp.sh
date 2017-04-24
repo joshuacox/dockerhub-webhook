@@ -21,6 +21,6 @@ if [ ! -z ${MATTERMOST_URL+x} ]
   then
     echo "Mattermost URL detected sending matters"
     curl -X POST --data-urlencode \
-    'payload={"channel": "#github", "username": "CaptainHook", "text": "Captain Hook has detected that the meanshop container has hit the open seas.", "icon_emoji": ":whale:"}' \
+    'payload={"channel": "#eventLog", "username": "CaptainHook", "text": "Captain Hook has detected that the meanshop container has hit the open seas.", "icon_emoji": ":whale:"}' \
     $MATTERMOST_URL
 fi
