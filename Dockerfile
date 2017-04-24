@@ -16,7 +16,7 @@ MAINTAINER Josh Cox
 RUN apk add --update --no-cache docker py-pip \
 && apk add bash bash-doc bash-completion curl \
 && pip install docker-compose \
-rm -rf /var/cache/apk/*
+&& rm -rf /var/cache/apk/*
 
 # Extra tools for native dependencies
 # RUN apk add --no-cache make gcc g++ python
