@@ -11,6 +11,6 @@ module.exports = {
   'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
   'joshuacox/dockerhub-webhook': 'dockerhub-webhook.sh parameter1 parameter2',
   'bokbot/bokbotapp': 'common.sh bokbotapp dockerhub',
-  'gaianysus/meanshop': 'common.sh gaiashop dockerhub',
+  'gaianysus/meanshop': 'multiurl.sh gaiashop dockerhub',
   'fail': 'fail.sh'
 }
