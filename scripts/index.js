@@ -11,7 +11,7 @@ module.exports = {
   'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
   'joshuacox/dockerhub-webhook': 'dockerhub-webhook.sh parameter1 parameter2',
   'bokbot/bokbotapp': 'common.sh bokbotapp dockerhub',
-  'webhostingcoopteam/snowplow-scala-collector': 'multiurl.sh snowplow-scala-collector dockerhub',
+  'webhostingcoopteam/snowplow-scala-collector': 'common.sh snowplow-scala-collector dockerhub',
   'gaianysus/meanshop': 'multiurl.sh gaiashop dockerhub',
   'fail': 'fail.sh'
 }
