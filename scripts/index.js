@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = {
-  'bokbot/dotorg': 'multiurl.sh dotorg roboks CaptainHook',
+  'bokbot/dotorg': 'multiurl.sh bokbot.org roboks CaptainHook',
   'bokbot/bokbotapp': 'multiurl.sh bokbotapp roboks CaptainHook',
   'gaianysus/meanshop': 'multiurl.sh Gaiashop roboks CaptainHook',
   'joshuacox/dockerhub-webhook': 'multiurl.sh captainhook roboks CaptainHook',
