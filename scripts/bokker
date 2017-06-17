@@ -1,9 +1,15 @@
 #!/bin/sh
 echo 'bokker bok.bok.bokkety.bok'
-echo $1
-echo $2
-echo $3
-echo $4
+
+if [ ! -z ${DEBUG+x} ]
+  then
+    echo ENV
+    env
+    echo $1
+    echo $2
+    echo $3
+    echo $4
+fi
 
 curl -X POST --data-urlencode \
 "payload={\"channel\": \"#${3}\", \"username\": \"${4}\", \"text\": \"${4} has detected that the ${2} container has hit the open seas.\", \"icon_emoji\": \":whale:\"}" \

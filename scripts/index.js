@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = {
-  'thalhalla/meanshop': 'multiurl.sh meanshop roboks CaptainHook',
+  'thalhalla/meanshop': 'multiurl.sh Meanshop roboks CaptainHook',
   'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHooksteamer.sh',
   'thalhalla/dockarmaiii': 'multiurl.sh DockARMAiii roboks CaptainHook',
   'thalhalla/tf2': 'multiurl.sh TF2 roboks CaptainHook',
@@ -11,6 +11,6 @@ module.exports = {
   'bokbot/dotorg': 'multiurl.sh dotorg roboks CaptainHook',
   'bokbot/bokbotapp': 'multiurl.sh bokbotapp roboks CaptainHook',
   'webhostingcoopteam/snowplow-scala-collector': 'multiurl.sh snowplow-scala-collector  roboks CaptainHook',
-  'gaianysus/meanshop': 'multiurl.sh gaiashop roboks CaptainHook',
+  'gaianysus/meanshop': 'multiurl.sh Gaiashop roboks CaptainHook',
   'fail': 'fail.sh'
 }
