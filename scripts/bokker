@@ -1,5 +1,5 @@
 #!/bin/sh
-echo 'bokker bok.bok.bokkety.bok'
+echo '<--bokker-->'
 
 if [ ! -z ${DEBUG+x} ]
   then
