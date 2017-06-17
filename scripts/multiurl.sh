@@ -1,13 +1,13 @@
 #!/bin/sh
 echo Running multiurl script
-echo $1
-echo $2
-echo $3
 
 if [ ! -z ${DEBUG+x} ]
   then
     echo ENV
     env
+    echo $1
+    echo $2
+    echo $3
 fi
 
 if [ ! -z ${SLACK_URL+x} ]
