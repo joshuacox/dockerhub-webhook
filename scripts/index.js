@@ -1,10 +1,10 @@
 'use strict'
 
 module.exports = {
-  'thalhalla/meanshop': 'meanshop.sh parameter1 parameter2', // namespace/repo_name : script <parameters>
-  'thalhalla/steamer': 'steamer.sh parameter1 parameter2',
-  'thalhalla/dockarmaiii': 'dockarmaiii.sh parameter1 parameter2',
-  'thalhalla/tf2': 'tf2.sh parameter1 parameter2',
+  'thalhalla/meanshop': 'multiurl.sh meanshop roboks CaptainHook',
+  'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHooksteamer.sh',
+  'thalhalla/dockarmaiii': 'multiurl.sh DockARMAiii roboks CaptainHook',
+  'thalhalla/tf2': 'multiurl.sh TF2 roboks CaptainHook',
   'thalhalla/7daystodie': 'multiurl.sh 7daystodie roboks CaptainHook',
   'thalhalla/dontstarvewithfriends': 'multiurl.sh dontstarvewithfriends.sh roboks CaptainHook',
   'joshuacox/dockerhub-webhook': 'multiurl.sh captainhook roboks CaptainHook',
