@@ -3,7 +3,7 @@
 if [ ! -z ${DEBUG+x} ]
   then
     echo ENV
-    print-env
+    env
 fi
 
 if [ ! -z ${SLACK_URL+x} ]

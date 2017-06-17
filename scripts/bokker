@@ -1,0 +1,7 @@
+#!/bin/sh
+echo 'bokker bok.bok.bokkety.bok'
+echo $1
+
+curl -X POST --data-urlencode \
+"payload={\"channel\": \"#github\", \"username\": \"CaptainHook\", \"text\": \"Captain Hook has detected that the ${1} container has hit the open seas.\", \"icon_emoji\": \":whale:\"}" \
+$1
