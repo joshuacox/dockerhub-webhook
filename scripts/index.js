@@ -6,7 +6,7 @@ module.exports = {
   'thalhalla/dockarmaiii': 'dockarmaiii.sh parameter1 parameter2',
   'thalhalla/tf2': 'tf2.sh parameter1 parameter2',
   'thalhalla/7daystodie': '7daystodie.sh parameter1 parameter2',
-  'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
+  'thalhalla/dontstarvewithfriends': 'multiurl.sh dontstarvewithfriends.sh roboks CaptainHook',
   'joshuacox/dockerhub-webhook': 'multiurl.sh captainhook roboks CaptainHook',
   'bokbot/dotorg': 'multiurl.sh dotorg roboks CaptainHook',
   'bokbot/bokbotapp': 'multiurl.sh bokbotapp roboks CaptainHook',
