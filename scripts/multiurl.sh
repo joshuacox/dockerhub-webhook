@@ -2,6 +2,7 @@
 echo Running multiurl script
 echo $1
 echo $2
+echo $3
 
 if [ ! -z ${DEBUG+x} ]
   then
@@ -24,5 +25,5 @@ fi
 if [ ! -z ${PUSH_URLS+x} ]
   then
     echo "Push URL detected sending pushs"
-    echo $PUSH_URLS|xargs -n1 -I{} ./bokker {}
+    echo $PUSH_URLS|xargs -n1 -I{} ./bokker {} $1 $2 $3
 fi
