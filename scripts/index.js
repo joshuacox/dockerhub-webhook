@@ -9,7 +9,7 @@ module.exports = {
   'thalhalla/tf2': 'tf2.sh parameter1 parameter2',
   'thalhalla/7daystodie': '7daystodie.sh parameter1 parameter2',
   'thalhalla/dontstarvewithfriends': 'dontstarvewithfriends.sh parameter1 parameter2',
-  'joshuacox/dockerhub-webhook': 'common.sh parameter1 parameter2',
+  'joshuacox/dockerhub-webhook': 'multiurl.sh parameter1 parameter2',
   'bokbot/dotorg': 'multiurl.sh dotorg dockerhub',
   'bokbot/bokbotapp': 'common.sh bokbotapp dockerhub',
   'webhostingcoopteam/snowplow-scala-collector': 'common.sh snowplow-scala-collector dockerhub',
