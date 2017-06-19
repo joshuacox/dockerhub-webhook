@@ -14,6 +14,7 @@ module.exports = {
   'thalhalla/meanshop': 'multiurl.sh Meanshop roboks CaptainHook',
   'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHooksteamer.sh',
   'thalhalla/dockarmaiii': 'multiurl.sh DockARMAiii roboks CaptainHook',
+  'thalhalla/dockarmaiii-wasteland': 'multiurl.sh dockarmaiii-wasteland roboks CaptainHook',
   'thalhalla/tf2': 'multiurl.sh TF2 roboks CaptainHook',
   'thalhalla/7daystodie': 'multiurl.sh 7daystodie roboks CaptainHook',
   'thalhalla/dontstarvewithfriends': 'multiurl.sh dontstarvewithfriends.sh roboks CaptainHook',
