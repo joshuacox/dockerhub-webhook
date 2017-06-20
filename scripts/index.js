@@ -10,7 +10,7 @@ module.exports = {
   'joshuacox/octossh': 'multiurl.sh octossh roboks CaptainHook',
   'joshuacox/mktrojanhorse': 'multiurl.sh mktrojanhorse roboks CaptainHook',
   'joshuacox/mediagoblin': 'multiurl.sh mediagoblin roboks CaptainHook',
-  'joshuacox/replaceme': 'multiurl.sh replaceme roboks CaptainHook',
+  'ohmydocker/replaceme': 'multiurl.sh replaceme roboks CaptainHook',
   'thalhalla/meanshop': 'multiurl.sh Meanshop roboks CaptainHook',
   'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHooksteamer.sh',
   'thalhalla/dockarmaiii': 'multiurl.sh DockARMAiii roboks CaptainHook',
