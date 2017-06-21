@@ -8,6 +8,7 @@ module.exports = {
   'joshuacox/mkdomoticz': 'multiurl.sh mkdomoticz roboks CaptainHook',
   'joshuacox/mktunnel': 'multiurl.sh mktunnel roboks CaptainHook',
   'joshuacox/octossh': 'multiurl.sh octossh roboks CaptainHook',
+  'joshuacox/openldap': 'multiurl.sh openldap roboks CaptainHook',
   'joshuacox/mktrojanhorse': 'multiurl.sh mktrojanhorse roboks CaptainHook',
   'joshuacox/mediagoblin': 'multiurl.sh mediagoblin roboks CaptainHook',
   'ohmydocker/replaceme': 'multiurl.sh replaceme roboks CaptainHook',
