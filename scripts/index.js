@@ -22,8 +22,10 @@ module.exports = {
   'webhostingcoopteam/snowplow-scala-collector': 'multiurl.sh snowplow-scala-collector  roboks CaptainHook',
   'webhostingcoopteam/nginx-tiny-proxy': 'multiurl.sh nginx-tiny-proxy roboks CaptainHook',
   'webhostingcoopteam/wwiv': 'multiurl.sh wwiv roboks CaptainHook',
+  'webhostingcoopteam/oauth2_proxy': 'multiurl.sh oauth2_proxy roboks CaptainHook',
   'webhostingcoopteam/openemr': 'multiurl.sh openemr roboks CaptainHook',
   'webhostingcoopteam/rubynpm': 'multiurl.sh rubynpm roboks CaptainHook',
+  'webhostingcoopteam/REPLACEME': 'multiurl.sh REPLACEME roboks CaptainHook',
   'replaceme': 'multiurl.sh replaceme roboks CaptainHook',
   'fail': 'fail.sh'
 }
