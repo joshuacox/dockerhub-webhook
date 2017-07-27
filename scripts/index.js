@@ -2,6 +2,7 @@
 
 module.exports = {
   'bokbot/dotorg': 'multiurl.sh bokbot.org roboks CaptainHook',
+  'bokbot/hud': 'multiurl.sh HUD roboks CaptainHook',
   'bokbot/bokbotapp': 'multiurl.sh bokbotapp roboks CaptainHook',
   'gaianysus/meanshop': 'multiurl.sh Gaiashop roboks CaptainHook',
   'joshuacox/dockerhub-webhook': 'multiurl.sh captainhook roboks CaptainHook',
@@ -13,9 +14,9 @@ module.exports = {
   'joshuacox/mediagoblin': 'multiurl.sh mediagoblin roboks CaptainHook',
   'ohmydocker/replaceme': 'multiurl.sh replaceme roboks CaptainHook',
   'thalhalla/meanshop': 'multiurl.sh Meanshop roboks CaptainHook',
-  'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHooksteamer.sh',
+  'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHook',
   'thalhalla/dockarmaiii': 'multiurl.sh DockARMAiii roboks CaptainHook',
-  'thalhalla/dockarmaiii-wasteland': 'multiurl.sh dockarmaiii-wasteland roboks CaptainHook',
+  'thalhalla/dockarmaiii-wasteland': 'multiurl.sh DockARMAiii-Wasteland roboks CaptainHook',
   'thalhalla/tf2': 'multiurl.sh TF2 roboks CaptainHook',
   'thalhalla/7daystodie': 'multiurl.sh 7daystodie roboks CaptainHook',
   'thalhalla/dontstarvewithfriends': 'multiurl.sh dontstarvewithfriends.sh roboks CaptainHook',
@@ -23,8 +24,11 @@ module.exports = {
   'webhostingcoopteam/nginx-tiny-proxy': 'multiurl.sh nginx-tiny-proxy roboks CaptainHook',
   'webhostingcoopteam/wwiv': 'multiurl.sh wwiv roboks CaptainHook',
   'webhostingcoopteam/rabbitmq-conf': 'multiurl.sh rabbitmq-conf roboks CaptainHook',
+  'webhostingcoopteam/oauth2_proxy': 'multiurl.sh oauth2_proxy roboks CaptainHook',
   'webhostingcoopteam/openemr': 'multiurl.sh openemr roboks CaptainHook',
   'webhostingcoopteam/rubynpm': 'multiurl.sh rubynpm roboks CaptainHook',
+  'webhostingcoopteam/snowplow-emretlrunner': 'multiurl.sh snowplow-emretlrunner roboks CaptainHook',
+  'webhostingcoopteam/REPLACEME': 'multiurl.sh REPLACEME roboks CaptainHook',
   'replaceme': 'multiurl.sh replaceme roboks CaptainHook',
   'fail': 'fail.sh'
 }
