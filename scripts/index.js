@@ -12,6 +12,7 @@ module.exports = {
   'joshuacox/openldap': 'multiurl.sh openldap roboks CaptainHook',
   'joshuacox/mktrojanhorse': 'multiurl.sh mktrojanhorse roboks CaptainHook',
   'joshuacox/mediagoblin': 'multiurl.sh mediagoblin roboks CaptainHook',
+  'joshuacox/reactiondev': 'multiurl.sh reactiondev roboks CaptainHook',
   'ohmydocker/replaceme': 'multiurl.sh replaceme roboks CaptainHook',
   'thalhalla/meanshop': 'multiurl.sh Meanshop roboks CaptainHook',
   'thalhalla/steamer': 'multiurl.sh steamer roboks CaptainHook',
